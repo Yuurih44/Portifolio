@@ -7,7 +7,7 @@ https://yuurih44.github.io/Portifolio/
 
 
 
-Tecnologias Utilizadas
+TECNOLOGIAS ULTILIZADAS
 
 
 HTML: Estruturou o site com tags semânticas.🧑🏽‍💻
@@ -22,7 +22,7 @@ JavaScript: Implementou funcionalidades dinâmicas, como menu interativo e valid
 
 
 
-Dificuldades e Soluções
+DIFICULDADADES E SOLUÇÕES
 
 
 Responsividade: Inicialmente desafiadora, resolvida com CSS Grid e Flexbox.😬
@@ -37,7 +37,7 @@ Compatibilidade: Ajustes feitos após testes em diferentes navegadores. 😬
 
 
 
-Conclusão
+CONCLUSÃO
 
 
 O portfólio atingiu seu objetivo, apresentando um design responsivo e funcional. O projeto consolidou conhecimentos essenciais e apontou áreas para futuras melhorias, como a implementação de backend e animações avançadas.😄😄😄😄
